@@ -3,15 +3,22 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Redirecting...</title>
+    <title>Google</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript">
-window.location = "files/oof.html"
-
-</script>
-
   </head>
   <body>
+
+    <a href=files/oof class="btn btn-default">Hi</a>
+
+<widgetbot
+    server="1039222118916833441"
+    channel="1050161073044602990"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+
+
     <script src="script.js"></script>
   </body>
 </html>
